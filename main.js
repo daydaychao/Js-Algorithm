@@ -1,8 +1,8 @@
 import './style.css'
 
 document.querySelector('#app').innerHTML = `
-  <h1>Hello Vite!</h1>
-  <a href="https://vitejs.dev/guide/features.html" target="_blank">Documentation</a>
+  <h1>Js-Algorithm</h1></a>
+  <div>Switch F12 console to see the result</div>
 `
 
 // ANCHOR deep file search
