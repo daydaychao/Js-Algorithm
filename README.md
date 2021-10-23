@@ -1,6 +1,8 @@
 # Js-Algorithm
 演算法修練之路
 
+Vite快速啟動
+
 ```
 npm i
 
